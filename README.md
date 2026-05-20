@@ -88,6 +88,3 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aboras7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Eduardo" />
-</div>
