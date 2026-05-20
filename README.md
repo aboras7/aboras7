@@ -9,9 +9,9 @@
 ---
 
 ### 🧠 Sobre Mim
-Sou graduado em **Psicologia** e atualmente cursando **Análise e Desenvolvimento de Sistemas** pela faculdade Descomplica. Acredito que a combinação entre o entendimento do comportamento humano e a engenharia de software me dá uma perspectiva única para criar sistemas que não apenas funcionam tecnicamente, mas que são intuitivos e focados na melhor experiência do usuário.
+Sou graduado em **Psicologia** e atualmente cursando **Análise e Desenvolvimento de Sistemas** pela faculdade Descomplica. Acredito que a combinação entre o entendimento analítico do comportamento humano e a engenharia de software me dá uma perspectiva única para projetar sistemas de alto desempenho que colocam a experiência do usuário (UX) em primeiro lugar.
 
-Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.br)**, uma agência especializada no desenvolvimento de sistemas web sob medida, integrações de APIs e soluções com Inteligência Artificial. 
+Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.br)**, uma agência especializada no desenvolvimento de sistemas web sob medida, automações inteligentes de processos e infraestrutura moderna em nuvem. 
 
 * 📍 Localizado em **Itupeva / Jundiaí - SP**
 * 🌱 Estudando e implementando ativamente **Inteligência Artificial** aplicada a automações de processos de negócios.
@@ -19,9 +19,11 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
 ---
 
 ### 🚀 O que tenho desenvolvido e gerenciado
-* **Infraestrutura Cloud da WASD:** Desenhei e migrei toda a nossa infraestrutura de microsserviços para instâncias dedicadas **Oracle Cloud Infrastructure (Ampere A1 Flex)** sob Linux Ubuntu, operando ecossistemas conteinerizados em **Docker** com suporte a conexões seguras automatizadas por proxy reverso.
-* **Automações de Negócios:** Construção de fluxos de integração complexos utilizando **n8n** conectando APIs externas, chatbots e pipelines assíncronos.
-* **Alwaysmed:** Projeto autoral de software (SaaS) focado no controle dinâmico e inteligente de medicamentos.
+* **Infraestrutura Cloud & DevOps da WASD:** Projetei, configurei e gerencio nossa infraestrutura de microsserviços centralizada em uma instância dedicada **Oracle Cloud Infrastructure (Ampere A1 Flex - ARM64)** sob Linux Ubuntu Minimal.
+* **Orquestração de Bancos de Dados Multi-tenant:** Realizei o deploy e a arquitetura de uma instância **Self-Hosted do Supabase** (PostgreSQL, APIs de Autenticação GoTrue e Kong API Gateway) rodando de forma nativa e isolada em contêineres Docker, centralizando os dados da agência e reduzindo custos com provedores externos.
+* **Roteamento Inteligente e Segurança:** Implementei um Proxy Reverso (Nginx Proxy Manager) em redes Docker isoladas (*Bridge*) para gerenciar e direcionar múltiplos subdomínios da agência, com automação completa de certificados SSL/TLS via Let's Encrypt.
+* **Automações de Negócios:** Construção de fluxos de integração complexos utilizando **n8n** conectados ao nosso ecossistema local na nuvem para pipelines assíncronos e chatbots.
+* **Alwaysmed:** Projeto autoral e independente focado no desenvolvimento de um software (SaaS) para controle dinâmico e inteligente de medicamentos.
 
 ---
 
@@ -47,18 +49,19 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>Banco de Dados & Cloud</h4>
+      <h4>Banco de Dados, Cloud & Proxy</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase_Self_Hosted-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+      <img src="https://img.shields.io/badge/Docker_%26_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle_Cloud_ARM64-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <h4>Automações & Ferramentas</h4>
       <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_Ubuntu_Minimal-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -66,9 +69,9 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
 ---
 
 ### 🎓 Formação Relevante
-* **Graduação em Análise e Desenvolvimento de Sistemas** — Faculdade Descomplica *(Em andamento)*
+* **Graduação em Análise e Desenvolvimento de Sistemas** — Faculdade Descomplica *(Previsão de Conclusão: Ajuste Aqui)*
 * **Desenvolvedor Web Full Stack** — *Generation Brasil* (447 horas de carga horária focadas em Java, Spring Boot, React, metodologias ágeis e desenvolvimento de mentalidades/soft skills)
-* **Bacharelado em Psicologia** — *Formação base*
+* **Bacharelado em Psicologia** — *Formação base / Entendimento de Comportamento Humano e Cognição*
 
 ---
 
@@ -85,6 +88,3 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
     <img src="https://img.shields.io/badge/Website_WASD-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WASD Soluções" />
   </a>
 </div>
-
-<br />
-
