@@ -13,15 +13,15 @@ Sou graduado em **Psicologia** e atualmente cursando **Análise e Desenvolviment
 
 Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.br)**, uma agência especializada no desenvolvimento de sistemas web sob medida, integrações de APIs e soluções com Inteligência Artificial. 
 
-*   📍 Localizado em **Itupeva / Jundiaí - SP**
-*   🌱 Estudando e implementando ativamente **Inteligência Artificial** aplicada a automações de processos de negócios.
+* 📍 Localizado em **Itupeva / Jundiaí - SP**
+* 🌱 Estudando e implementando ativamente **Inteligência Artificial** aplicada a automações de processos de negócios.
 
 ---
 
 ### 🚀 O que tenho desenvolvido e gerenciado
-*   **Infraestrutura Cloud da WASD:** Desenhei e migrei toda a nossa infraestrutura de microsserviços para instâncias dedicadas **Oracle Cloud Infrastructure (Ampere A1 Flex)** sob Linux Ubuntu, operando ecossistemas conteinerizados em **Docker** com suporte a conexões seguras automatizadas por proxy reverso.
-*   **Automações de Negócios:** Construção de fluxos de integração complexos utilizando **n8n** conectando APIs externas, chatbots e pipelines assíncronos.
-*   **Alwaysmed:** Projeto autoral de software (SaaS) focado no controle dinâmico e inteligente de medicamentos.
+* **Infraestrutura Cloud da WASD:** Desenhei e migrei toda a nossa infraestrutura de microsserviços para instâncias dedicadas **Oracle Cloud Infrastructure (Ampere A1 Flex)** sob Linux Ubuntu, operando ecossistemas conteinerizados em **Docker** com suporte a conexões seguras automatizadas por proxy reverso.
+* **Automações de Negócios:** Construção de fluxos de integração complexos utilizando **n8n** conectando APIs externas, chatbots e pipelines assíncronos.
+* **Alwaysmed:** Projeto autoral de software (SaaS) focado no controle dinâmico e inteligente de medicamentos.
 
 ---
 
@@ -66,23 +66,23 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
 ---
 
 ### 🎓 Formação Relevante
-*   **Graduação em Análise e Desenvolvimento de Sistemas** — Faculdade Descomplica *(Em andamento)*
-*   **Desenvolvedor Web Full Stack** — *Generation Brasil* (447 horas de carga horária focadas em Java, Spring Boot, React, metodologias ágeis e desenvolvimento de mentalidades/soft skills)
-*   **Bacharelado em Psicologia** — *Faculdade de Psicologia de formação base*
+* **Graduação em Análise e Desenvolvimento de Sistemas** — Faculdade Descomplica *(Em andamento)*
+* **Desenvolvedor Web Full Stack** — *Generation Brasil* (447 horas de carga horária focadas em Java, Spring Boot, React, metodologias ágeis e desenvolvimento de mentalidades/soft skills)
+* **Bacharelado em Psicologia** — *Formação base*
 
 ---
 
 ### 🤝 Conecte-se Comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-nogueira-silva" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-nogueira-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:eduardo.nogueira.silva.ens@gmail.com" target="_blank">
+  <a href="mailto:eduardo7_@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wasd.tec.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website_WASD-000000?style=for-the-badge&logo=web&logoColor=white" alt="WASD Soluções" />
+    <img src="https://img.shields.io/badge/Website_WASD-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WASD Soluções" />
   </a>
 </div>
 
