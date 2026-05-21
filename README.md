@@ -18,10 +18,31 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
 
 ---
 
-### 🚀 O que tenho desenvolvido e gerenciado
-*   **Infraestrutura Cloud da WASD:** Desenhei e migrei toda a nossa infraestrutura de microsserviços para instâncias dedicadas **Oracle Cloud Infrastructure (Ampere A1 Flex)** sob Linux Ubuntu, operando ecossistemas conteinerizados em **Docker** com suporte a conexões seguras automatizadas por proxy reverso.
-*   **Garantia de Qualidade (Testes):** Implantei testes de componentes automatizados em nossas aplicações utilizando **Vitest** e **React Testing Library** para blindar a interface contra regressões visuais e lógicas.
-*   **Alwaysmed:** Projeto autoral de software (SaaS) focado no controle dinâmico e inteligente de medicamentos.
+### 💼 Empreendimentos & Projetos em Destaque
+
+#### 🚀 **[WASD Soluções Digitais](https://wasd.tec.br)** (Agência de Software)
+*   **O que é:** Agência de desenvolvimento de software sob medida, especializada em sistemas web robustos, automações inteligentes de processos com IA e integrações complexas de APIs.
+*   **Atuação e Engenharia de Infraestrutura:** 
+    *   **Infraestrutura Cloud**: Arquitetura corporativa implantada em instâncias dedicadas **Oracle Cloud Infrastructure (OCI Ampere A1 Flex ARM64)** rodando sob Linux Ubuntu.
+    *   **Containerização**: Virtualização e orquestração de ecossistemas de microsserviços via **Docker & Docker Compose**, garantindo portabilidade e alta eficiência.
+    *   **Segurança & Roteamento**: Configuração de proxy reverso utilizando **Nginx Proxy Manager**, com geração e renovação automática de certificados SSL/TLS (Let's Encrypt) para tráfego criptografado e seguro de múltiplos domínios e APIs.
+    *   **Automação & ETL**: Construção de fluxos e pipelines automatizados com a ferramenta **n8n**, conectando CRM, canais de mensageria e APIs de modelos de linguagem (LLMs) para otimizar rotinas empresariais.
+
+#### 📰 **Jornal Expressão** (Portal de Notícias & CMS Comercial)
+*   **O que é:** Um ecossistema completo de produção para um portal de notícias real, composto pelo site público otimizado e por um painel administrativo (CMS) personalizado de alta performance.
+*   **Arquitetura & Detalhes Técnicos:**
+    *   **Frontend & UX**: Single Page Application (SPA) construída com **React 18**, **TypeScript**, **Vite** e **Tailwind CSS**. Interface premium otimizada com controle de acessibilidade de fontes, suporte a modo escuro nativo e pré-carregamento dinâmico de rotas (*prefetching*).
+    *   **Editor WYSIWYG**: Editor rico baseado no **TipTap** que permite escrita fluida com **extensões personalizadas de incorporação de mídias responsivas** (YouTube, Vimeo, etc.) e controle avançado de estado local para evitar perda de rascunhos em alternância de abas.
+    *   **Visualização em Tempo Real (Preview)**: Aba de preview integrada que emula com fidelidade o design público exato da matéria.
+    *   **Backend Serverless & RBAC**: Banco PostgreSQL gerenciado no **Supabase** com políticas estritas de segurança em nível de linha (**RLS**). Autenticação e controle de cargos baseados em papéis (**RBAC**) para três níveis (`admin`, `journalist`, `intern`).
+    *   **Edge Computing & Deno**: Funções de borda (**Supabase Edge Functions**) escritas em TypeScript para Deno:
+        *   `publish-scheduled`: Função acionada via **cron job** no Linux a cada minuto para automatizar a publicação de notícias pré-agendadas pelos redatores.
+        *   `admin-create-user`: Registro seguro de usuários com cargos específicos.
+        *   `rss` & `sitemap`: Geração dinâmica sob demanda de feeds XML para SEO e Google News.
+    *   **Garantia de Qualidade**: Cobertura de testes automatizados de componentes e integração utilizando **Vitest** e **React Testing Library** (24 testes).
+
+#### 💊 **Alwaysmed** (SaaS de Controle Farmacológico)
+*   **O que é:** Software autoral de controle dinâmico e inteligente de medicamentos, focado em agilidade e segurança na gestão de tratamentos.
 
 ---
 
@@ -94,6 +115,3 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
     <img src="https://img.shields.io/badge/Website_WASD-000000?style=for-the-badge&logo=web&logoColor=white" alt="WASD Soluções" />
   </a>
 </div>
-
-<br />
-
