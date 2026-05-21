@@ -41,8 +41,15 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
         *   `rss` & `sitemap`: Geração dinâmica sob demanda de feeds XML para SEO e Google News.
     *   **Garantia de Qualidade**: Cobertura de testes automatizados de componentes e integração utilizando **Vitest** e **React Testing Library** (24 testes).
 
-#### 💊 **Alwaysmed** (SaaS de Controle Farmacológico)
-*   **O que é:** Software autoral de controle dinâmico e inteligente de medicamentos, focado em agilidade e segurança na gestão de tratamentos.
+#### 📱 **AlwaysMed** (Mobile App & SaaS Farmacológico)
+*   **O que é:** Um aplicativo mobile de lembretes e controle de estoque de medicamentos de uso pessoal e para dependentes, operando em modelo de negócios Freemium.
+*   **Arquitetura & Detalhes Técnicos:**
+    *   **Desenvolvimento Híbrido**: Desenvolvido com **React 18** e **TypeScript** empacotado como aplicativo nativo (Android e iOS) através do **Capacitor 8**, garantindo código base unificado e performance nativa.
+    *   **Gestão de Assinaturas e Compras In-App**: Integração com o SDK do **RevenueCat** para controle de compras no aplicativo (modelo vitalício premium).
+    *   **Mecanismo de Lembretes & Alarmes**: Sistema dinâmico e insistente para alertas de medicamentos estruturado no app.
+    *   **Modo Cuidador & Sincronização**: Compartilhamento e sincronização em tempo real de agendas médicas entre múltiplos dispositivos utilizando as APIs e banco do **Supabase**.
+    *   **Internacionalização (i18n)**: Suporte completo e dinâmico a múltiplos idiomas (Português, Inglês e Espanhol) estruturado com a biblioteca **react-i18next**.
+    *   **UI Acessível & Estilização**: Componentes de interface responsivos e altamente acessíveis criados com **Radix UI** e customizados através de classes **Tailwind CSS**.
 
 ---
 
@@ -59,8 +66,9 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
     <td valign="top" width="50%">
-      <h4>Frontend & UI</h4>
+      <h4>Frontend, UI & Mobile</h4>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Capacitor-111111?style=for-the-badge&logo=capacitor&logoColor=119EFF" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -68,9 +76,10 @@ Sou cofundador e desenvolvedor na **[WASD Soluções Digitais](https://wasd.tec.
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>Banco de Dados & Cloud</h4>
+      <h4>Banco de Dados, Cloud & SaaS</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+      <img src="https://img.shields.io/badge/RevenueCat-F25F5C?style=for-the-badge&logo=revenuecat&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     </td>
